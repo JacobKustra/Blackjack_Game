@@ -1,5 +1,9 @@
 # Python Blackjack Game
 
+Console based implementation of Blackjack written entirely in Python.
+
+## Project Overview
+
 Do you have what it takes to beat the dealer, or will the house take it all? Start the game with $1,000 and test your skills in this Python implementation of Blackjack. Whether you hit 21 and acquire a fortune or go bust trying to win, this console-based game promises to be a fun experience right from your terminal. <br>
 Play your cards right and you might just bring home all the cash.
 
