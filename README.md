@@ -22,11 +22,7 @@ To play the game, you need Python installed on your system. This game is compati
   ```bash
   git clone https://github.com/JacobKustra/Blackjack_Game.git
   ```
-2. Navigate to the project directory:
-  ```bash
-  cd python-blackjack
-  ```
-3. Run the game:
+2. Navigate to the Project Directory and Run the game:
   ```bash
   python Blackjack_Game.py
   ```
